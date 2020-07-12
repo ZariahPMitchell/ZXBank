@@ -14,6 +14,7 @@ public class ZXBank
    System.out.println("WELCOME TO ZX BANK");
    System.out.println("---------------------");
    System.out.print("How Many Accounts Do You Want To Open Up? ");
+  
   int n=KB.nextInt();
   ZXBankTest C[]=new ZXBankTest[n];
   for(int i=0;i<C.length;i++)
