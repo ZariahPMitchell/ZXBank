@@ -7,11 +7,7 @@ public class ZXBankTest
  private String name;
  private long balance;
 
-
  Scanner KB=new Scanner(System.in);
- 
- 
-
  
  //method to open an account
  void openAccount()
