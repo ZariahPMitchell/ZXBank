@@ -11,7 +11,6 @@
   <h3 align="center">Banking System</h3>
 
  <center> <p align="center">
-    <a href="https://povertyreduction.netlify.app">View Website Demo</a>
     
   </p>
 </p></center>
