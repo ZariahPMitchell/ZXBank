@@ -4,7 +4,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/github_username/repo">
-    <img src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/950/627/datas/gallery.jpg" alt="Logo" width="600" height="300">
+    <img src="" alt="Logo" width="600" height="300">
   </a>
 
   <h1 align="center">ZXBank</h1>
@@ -38,9 +38,8 @@ It details the way to reduce poverty and how to stop it.
 
 ### Built With
 
-* [Sublime Text](https://www.sublimetext.com/)
-* [HTML](https://www.google.com/search?rlz=1C1CHBF_enUS871US871&sxsrf=ALeKk00nO-Fp4HtJ260lRLkPJe03hpfBIQ%3A1594524411462&ei=-4IKX93QG9r0tAbxvIW4Bg&q=HTML&oq=HTML&gs_lcp=CgZwc3ktYWIQAzIICAAQsQMQkQIyBQgAEJECMgoIABCxAxAUEIcCMgUIABCxAzIFCAAQsQMyBQgAELEDMgUIABCxAzIFCAAQsQMyBQgAELEDMgUIABCxAzoHCAAQsAMQQzoECCMQJzoCCAA6BwgjEOoCECc6CAgAELEDEIMBOggILhCxAxCDAVCkBFjdF2DMHGgDcAB4BIAB3wGIAbwLkgEFNS42LjGYAQCgAQGqAQdnd3Mtd2l6sAEK&sclient=psy-ab&ved=0ahUKEwiduoWp4sbqAhVaOs0KHXFeAWcQ4dUDCAw&uact=5)
-* [CSS](https://www.google.com/search?rlz=1C1CHBF_enUS871US871&sxsrf=ALeKk01IhY0d3MOTG8gYcLkmBDsP_1_Qsw%3A1594524550927&ei=hoMKX8aSOIG6tAaMiJaACg&q=CSS&oq=CSS&gs_lcp=CgZwc3ktYWIQAzIFCAAQkQIyBQgAEJECMgcIABAUEIcCMgUIABCxAzICCAAyBQgAELEDMgUIABCxAzIFCAAQsQMyBQgAELEDMgUIABCxAzoHCAAQRxCwAzoHCCMQ6gIQJzoECCMQJzoICAAQsQMQgwE6BQguELEDOgIILlD6jgRY8pgEYP-aBGgEcAB4AIABsgGIAeACkgEDMi4xmAEAoAEBqgEHZ3dzLXdperABCg&sclient=psy-ab&ved=0ahUKEwjG7cXr4sbqAhUBHc0KHQyEBaAQ4dUDCAw&uact=5)
+* [Java](https://www.google.com/search?q=java&rlz=1C1CHBF_enUS871US871&oq=java&aqs=chrome..69i57j69i59j69i60l2j69i61j69i65l3.1028j0j7&sourceid=chrome&ie=UTF-8)
+
 
 
 
