@@ -27,13 +27,10 @@
 
 
 
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+This java project is a banking system. In this java banking sysmte oyu are able to set up an acount. You can also chaeck how much you have in your account. You can also put in and take out any amount you want. 
 
-The inspiration for the website "Poverty Reduction" is due to us witnessing poverty around me growing up. 
-It details the way to reduce poverty and how to stop it.
 
 
 ### Built With
@@ -46,8 +43,7 @@ It details the way to reduce poverty and how to stop it.
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-This website is to spread more awareness about poverty. Proverty effects thousands of people across the world.
-
+This java project can be used to set up a banking system and how differnt project elements work togther in a banking system
 
 
 <!-- ROADMAP -->
