@@ -4,7 +4,6 @@
 <br />
 <p align="center">
   <a href="https://github.com/github_username/repo">
-    <img src="" alt="Logo" width="600" height="300">
   </a>
 
   <h1 align="center">ZXBank</h1>
