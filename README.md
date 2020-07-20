@@ -60,6 +60,6 @@ I had a alot of fun build a well desined website.
 
 
 <!-- CONTACT -->
-## Contact
+## Contact 
 
 Zariah Mitchell - [@LinkedIn](https://www.linkedin.com/in/zariah-mitchell-2455801a8/) or email zariahpmitchell@gmail.com
